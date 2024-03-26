@@ -1,6 +1,6 @@
 # todocubitlistener
 
-A new Flutter project.
+A Flutter project was created for Todo List by Cubit(Bloc Listener).
 
 ## Getting Started
 
